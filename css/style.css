@@ -1,0 +1,50 @@
+*{
+    background-color: #780000;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.topo img{
+    margin-left: 50px;
+}
+.topo{
+    margin-top: 30px; 
+    /* margin-right: -390px;  */
+}
+.topo a:hover{
+    border-bottom: 3px solid #e5383b;
+}
+.topo a{
+    text-transform: uppercase;
+    color: #ffff;
+    align-items: flex-end;
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+    padding-right: 50px; 
+}
+.main_img img{
+}
+
+    
+.botao input{
+    background-color: #461220;
+    padding: 1rem 4rem 1rem 4rem;
+    border: none;
+    border-radius: 120px;
+    color: rgb(252, 252, 252);
+    cursor: pointer;
+    transition: 0.3s;
+}
+.botao input:hover{
+    background-color: #da1e37 ;
+    transform: scaleY(1.2);
+} 
+.fixarRodape {
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+} 
+
+
+
+
